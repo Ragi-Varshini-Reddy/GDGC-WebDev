@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: roboto;
+    box-sizing: border-box;
+}
+.img1{
+    border-radius: 16rem;
+    height: 80px;
+    width: 80px;
+}
+.h{
+    height: 350px;
+}
+.hei{
+    height: 5.5rem;
+}
+.img2{
+    border-radius: 1rem;
+    height: 80px;
+    width: 80px;
+}
+.w{
+    width: 360px;
+}
